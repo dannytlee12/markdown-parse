@@ -36,7 +36,7 @@ public class MarkdownParse {
                 }
             }
             }
-            
+
         return toReturn;
     }
     public static void main(String[] args) throws IOException {
